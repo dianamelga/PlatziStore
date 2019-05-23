@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390674699073",
+    "firebase_url": "https://platzistore-7171e.firebaseio.com",
+    "project_id": "platzistore-7171e",
+    "storage_bucket": "platzistore-7171e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390674699073:android:1db54286e9fac984",
+        "android_client_info": {
+          "package_name": "com.platzi.platzistore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390674699073-rnpakq3lsul15cfh13pfg2ttru2plktu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platzi.platzistore",
+            "certificate_hash": "097e57e7afc54d72890f790d74413690e8d5174b"
+          }
+        },
+        {
+          "client_id": "390674699073-e58fnjs6i61rns96o0mje9tiqpqe6fqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29xPqQRvvrZeBskT_MalyLGc9gEPEtDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390674699073-e58fnjs6i61rns96o0mje9tiqpqe6fqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

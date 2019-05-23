@@ -3,10 +3,7 @@ package com.platzi.platzistore
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.GridLayoutManager
-import android.support.v7.widget.RecyclerView
 import kotlinx.android.synthetic.main.activity_main.*
-import org.jetbrains.anko.startActivity
-import org.jetbrains.anko.toast
 
 class MainActivity : AppCompatActivity() {
 
